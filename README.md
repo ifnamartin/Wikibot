@@ -1,7 +1,7 @@
 # Wikibot
 ## Your task
 The purpose of this software robot is to find key information about important scientists
-and display it to the user.
+and display it to the user
 
 When this robot is run, it should:
 
